@@ -1,0 +1,52 @@
+{
+  "id": "vokashu-cpr-ru",
+  "title": "Cyberpunk RED — русский перевод по книгам",
+  "description": "<p>Русский перевод компендиумов Cyberpunk RED с названиями и терминами из русских изданий книг: навыки, роли, ролевые способности, оружие, броня, киберимпланты, снаряжение, «Чёрный Хром» и DLC-модули (Edgerunners Mission Kit и другие). Перевод модуля важнее встроенного перевода системы. Предметы и персонажи, уже созданные в мире, не меняются; новые названия навыков видны и у них.</p><p>Нужен модуль Babele, язык Foundry — русский.</p><p>Автор — <strong>Vokashu</strong>. <a href=\"https://boosty.to/young_rome\">Boosty</a> · <a href=\"https://www.patreon.com/vokashu\">Patreon</a></p>",
+  "version": "1.0.0",
+  "url": "https://github.com/vokashu365/vokashu-cpr-ru",
+  "manifest": "https://github.com/vokashu365/vokashu-cpr-ru/releases/latest/download/module.json",
+  "download": "https://github.com/vokashu365/vokashu-cpr-ru/releases/download/v1.0.0/vokashu-cpr-ru.zip",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14.365",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "Vokashu",
+      "email": "roman@vokashu.ru",
+      "url": "https://boosty.to/young_rome",
+      "discord": "young_rome",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/init.js"
+  ],
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "cyberpunk-red-core",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.92.0"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "reason": "Перевод компендиумов"
+      }
+    ]
+  },
+  "flags": {}
+}

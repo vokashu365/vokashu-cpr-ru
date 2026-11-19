@@ -1,0 +1,83 @@
+{
+  "label": "Соло удачи 2045 — таблицы СЛ",
+  "entries": {
+    "DV Snubnose Pistol": {
+      "name": "СЛ Укороченный пистолет"
+    },
+    "DV Grenade Launcher": {
+      "name": "СЛ Гранатомёт"
+    },
+    "DV Long-Barrel Shotgun": {
+      "name": "СЛ Удлинённый дробовик"
+    },
+    "DV Missile Launcher": {
+      "name": "СЛ Ракетная установка"
+    },
+    "DV Thrown Weapon": {
+      "name": "СЛ Метательное оружие"
+    },
+    "DV Marksman Rifle": {
+      "name": "СЛ Марксманская винтовка"
+    },
+    "DV Longbow": {
+      "name": "СЛ Длинный лук/арбалет"
+    },
+    "DV Shotgun (Slug)": {
+      "name": "СЛ Дробовик (Жакан)"
+    },
+    "DV Carbine": {
+      "name": "СЛ Карабин"
+    },
+    "DV Pistol": {
+      "name": "СЛ Пистолет"
+    },
+    "DV Bows & Crossbows": {
+      "name": "СЛ Луки и арбалеты"
+    },
+    "DV Assault Rifle": {
+      "name": "СЛ Штурмовая винтовка"
+    },
+    "DV Shortbow": {
+      "name": "СЛ Короткий лук/арбалет"
+    },
+    "DV Rocket Launcher": {
+      "name": "СЛ Ракетница"
+    },
+    "DV Long-Barrel Pistol": {
+      "name": "СЛ Удлинённый пистолет"
+    },
+    "DV Assault Rifle (Autofire)": {
+      "name": "СЛ Штурмовая винтовка (Автоогонь)"
+    },
+    "DV Anti-materiel Rifle": {
+      "name": "СЛ Крупнокалиберная снайперская винтовка"
+    },
+    "DV Short-Barrel Shotgun": {
+      "name": "СЛ Укороченный дробовик"
+    },
+    "DV Battle Rifle": {
+      "name": "СЛ Боевая винтовка"
+    },
+    "DV SMG (Autofire)": {
+      "name": "СЛ ПП (Автоогонь)"
+    },
+    "DV Machine Pistol (Autofire)": {
+      "name": "СЛ Автоматический пистолет (Автоогонь)"
+    },
+    "DV SMG": {
+      "name": "СЛ ПП"
+    },
+    "DV Scout Rifle": {
+      "name": "СЛ Скаутская винтовка"
+    },
+    "DV Sniper Rifle": {
+      "name": "СЛ Снайперская винтовка"
+    },
+    "DV Machine Gun (Autofire)": {
+      "name": "СЛ Пулемёт (Автоогонь)"
+    },
+    "DV Subcompact SMG": {
+      "name": "СЛ Субкомпактный ПП"
+    }
+  }
+}

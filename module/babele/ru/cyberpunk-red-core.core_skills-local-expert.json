@@ -1,0 +1,125 @@
+{
+  "label": "Навыки (Знание местности)",
+  "mapping": {},
+  "entries": {
+    "Local Expert (Badlands)": {
+      "name": "Знание местности (Пустоши)",
+      "description": ""
+    },
+    "Local Expert (Little China)": {
+      "name": "Знание местности (Маленький Китай)",
+      "description": ""
+    },
+    "Local Expert (Little Europe)": {
+      "name": "Знание местности (Маленькая Европа)",
+      "description": ""
+    },
+    "Local Expert (Morro Rock)": {
+      "name": "Знание местности (Морро Рок)",
+      "description": ""
+    },
+    "Local Expert (New Westbrook)": {
+      "name": "Знание местности (Новый Вестбрук)",
+      "description": ""
+    },
+    "Local Expert (Norcal Military Base)": {
+      "name": "Знание местности (Военная база Северной Калифорнии)",
+      "description": ""
+    },
+    "Local Expert (Old Combat Zone)": {
+      "name": "Знание местности (Старая боевая зона)",
+      "description": ""
+    },
+    "Local Expert (Old Corp Center)": {
+      "name": "Знание местности (Старый корпоративный центр)",
+      "description": ""
+    },
+    "Local Expert (Old Japan Town)": {
+      "name": "Знание местности (Старый Джапантаун)",
+      "description": ""
+    },
+    "Local Expert (South Night City)": {
+      "name": "Знание местности (Южный Найт-Сити)",
+      "description": ""
+    },
+    "Local Expert (The Glen)": {
+      "name": "Знание местности (Глен)",
+      "description": ""
+    },
+    "Local Expert (University District)": {
+      "name": "Знание местности (Университетский район)",
+      "description": ""
+    },
+    "Local Expert (Upper Marina)": {
+      "name": "Знание местности (Аппер Марина)",
+      "description": ""
+    },
+    "Local Expert (Watson)": {
+      "name": "Знание местности (Уотсон)",
+      "description": ""
+    },
+    "Local Expert (Barcelona)": {
+      "name": "Знание местности (Барселона)"
+    },
+    "Local Expert (GM’s Choice)": {
+      "name": "Знание местности (на выбор мастера)"
+    },
+    "Local Expert (Heywood Industrial Zone)": {
+      "name": "Знание местности (Промзона Хейвуда)"
+    },
+    "Local Expert (Heywood)": {
+      "name": "Знание местности (Хейвуд)"
+    },
+    "Local Expert (Hot Zone)": {
+      "name": "Знание местности (Горячая зона)"
+    },
+    "Local Expert (Japantown)": {
+      "name": "Знание местности (Джапантаун)"
+    },
+    "Local Expert (Kabuki)": {
+      "name": "Знание местности (Кабуки)"
+    },
+    "Local Expert (Night City Harbor)": {
+      "name": "Знание местности (Порт Найт-Сити)"
+    },
+    "Local Expert (Night City)": {
+      "name": "Знание местности (Найт-Сити)"
+    },
+    "Local Expert (NorCal Military Base)": {
+      "name": "Знание местности (Военная база Северной Калифорнии)"
+    },
+    "Local Expert (North Heywood)": {
+      "name": "Знание местности (Северный Хейвуд)"
+    },
+    "Local Expert (Old Japantown)": {
+      "name": "Знание местности (Старый Джапантаун)"
+    },
+    "Local Expert (Pacifica Playground)": {
+      "name": "Знание местности (Площадка Пасифики)"
+    },
+    "Local Expert (Precinct #1)": {
+      "name": "Знание местности (Участок №1)"
+    },
+    "Local Expert (Rancho Coronado)": {
+      "name": "Знание местности (Ранчо Коронадо)"
+    },
+    "Local Expert (Santo Domingo)": {
+      "name": "Знание местности (Санто-Доминго)"
+    },
+    "Local Expert (Sewers of Little China)": {
+      "name": "Знание местности (Канализация Маленького Китая)"
+    },
+    "Local Expert (The Place They Die In)": {
+      "name": "Знание местности (место, где они умрут)"
+    },
+    "Local Expert (Tunnels Beneath Totentanz)": {
+      "name": "Знание местности (тоннели под «Тотентанцем»)"
+    },
+    "Local Expert (Unknown)": {
+      "name": "Знание местности (неизвестно)"
+    },
+    "Local Expert (Watson Development)": {
+      "name": "Знание местности (Застройка Уотсона)"
+    }
+  }
+}

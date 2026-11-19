@@ -1,0 +1,522 @@
+black-chrome_ammo: Arasaka Acid: «Яд» от Арасака → Арасака «Кислота»
+black-chrome_ammo: Arasaka Fire: «Огонь» от Арасака → Арасака «Огонь»
+black-chrome_ammo: Arasaka Wound Salt: «Соль на рану» от Арасака → Арасака «Соль на рану»
+black-chrome_ammo: Doberman 500 Marking Scent: Метка с запахом «Доберман 500» → Маркирующий запах «Доберман 500»
+black-chrome_ammo: Grenade (KTech Security): Граната (охранная) от КейТех → Граната (охранная КТех)
+black-chrome_armor: Dirk Combat Jacket: Боевая куртка «Кинжал» → Боевая куртка «Кортик»
+black-chrome_armor: Executive Armor: Броня администратора → Броня директора
+black-chrome_armor: Fire Brand Bunker Gear: Боевая одежда пожарного от Файер брэнд → Снаряжение пожарного «Огненная марка»
+black-chrome_armor: Laser Light Street Jacket: Лазерная уличная куртка → Уличная куртка «Лазерный свет»
+black-chrome_armor: Masetto AirRider: «Воздушный наездник» от Масетто → Масетто «Воздушный наездник»
+black-chrome_armor: MechaMan Motorcycle Helmet: Мотоциклетный шлем «Мехамэн» → Мотоциклетный шлем «МехаМэн»
+black-chrome_armor: Mimic Clothing (Asia Pop): Имитированная одежа (Азия поп) → Мимиковская одежда (Asia Pop)
+black-chrome_armor: Mimic Clothing (Bag Lady Chic): Имитированная одежда (бомжатский прикид) → Мимиковская одежда (Bag Lady Chic)
+black-chrome_armor: Mimic Clothing (Bohemian): Имитированная одежда (бохо) → Мимиковская одежда (Bohemian)
+black-chrome_armor: Mimic Clothing (Businesswear): Имитированная одежда (деловой стиль) → Мимиковская одежда (Businesswear)
+black-chrome_armor: Mimic Clothing (Gang Colors): Имитированная одежда (одежда банды) → Мимиковская одежда (Gang Colors)
+black-chrome_armor: Mimic Clothing (Generic Chic): Имитированная одежда (обычный прикид) → Мимиковская одежда (Generic Chic)
+black-chrome_armor: Mimic Clothing (High Fashion): Имитированная одежда (высокая мода) → Мимиковская одежда (High Fashion)
+black-chrome_armor: Mimic Clothing (Leisurewear): Имитированная одежда (спортивки) → Мимиковская одежда (Leisurewear)
+black-chrome_armor: Mimic Clothing (Nomad Leathers): Имитированная одежда (одеяния кочевников) → Мимиковская одежда (Nomad Leathers)
+black-chrome_armor: Mimic Clothing (Urban Flash): Имитированная одежда (городской эпатаж) → Мимиковская одежда (Urban Flash)
+black-chrome_armor: Montage Variable Clothing Line: Линия варьирующейся одежды → Линия изменяющейся одежды «Монтаж»
+black-chrome_armor: Skid Row Trench: Плащ «Бродяга» → Тренч «СкидРоу»
+black-chrome_clothing: Masetto Holo-Wear: Голо-одежда от Масетто → Масетто «Голо-одежда»
+black-chrome_cyberware: Airhypo Cyberfinger: Киберпалец-пневмошприц → Киберпалец-аэрогипо
+black-chrome_cyberware: Ballpoint Cyberfinger: Киберпалец-шариковоя ручка → Шариковый киберпалец
+black-chrome_cyberware: Bullet Storage Cyberfinger: Киберпалец с отсеком для патронов → Киберпалец-хранилище для пуль
+black-chrome_cyberware: Discount Cyberaudio Suite: Уценённая комплект кибераудио → Уценённый комплект кибераудио
+black-chrome_cyberware: Dynalar Modular Finger Enthusiast Cyberhand: Киберкисть энтузиаста модульных пальцев от Диналар → Дайналар «Киберкисть энтузиаста с модульными пальцами»
+black-chrome_cyberware: Explicit Memory Stimulator: Стимулятор декларативной памяти → Эксплицитный стимулятор памяти
+black-chrome_cyberware: Extra-Jointed Cyberarm Upgrade: Дополнительный сустав для киберруки → Экстра-крепление киберконечности (киберрука)
+black-chrome_cyberware: Extra-Jointed Cyberleg Upgrade: Дополнительный сустав для киберноги → Экстра-крепление киберконечности (кибернога)
+black-chrome_cyberware: Flashbulb: Импульсная лампа → Лампа-вспышка
+black-chrome_cyberware: Hardened Shielding (Borgware): Усиленное экранирование (боргимплант) → Закалённое экранирование (борг-импланты)
+black-chrome_cyberware: Hardened Shielding (Cybereye): Усиленное экранирование (киберглаз) → Закалённое экранирование (киберглаз)
+black-chrome_cyberware: Hardened Shielding (Internal): Усиленное экранирование (внутренние импланты) → Закалённое экранирование (внутренние импланты)
+black-chrome_cyberware: Homing Tracer Cyberfinger: Киберпалец-радиопеленгатор → Киберпалец-трекер
+black-chrome_cyberware: Implanted Fūma Kotarō Linear Frame: Имплантированный прямоходный остов «Фума Котаро» → Эндоскелет «Фума Котаро»
+black-chrome_cyberware: Implanted LF-001 SWAT Linear Frame: Имплантированный прямоходный остов SWAT ПО-001 → Эндоскелет ЛФ-001 SWAT
+black-chrome_cyberware: Implanted Vermilion Linear Frame: Имплантированный прямоходный остов «Киноварь» → Эндоскелет «Вермилион»
+black-chrome_cyberware: Integrated Cyberdeck Upgrade: Улучшение интегрированной кибердеки → Обновлённая интегрированная кибердека
+black-chrome_cyberware: Mini Air Supply Cyberfinger: Киберпалец с контуром дыхания → Киберпалец с мини-запасом воздуха
+black-chrome_cyberware: Neo-Soviet Cyberarm: Неосоветская киберрука → Нео-советская киберрука
+black-chrome_cyberware: One Shot Special Cyberfinger: Киберпалец-однозарядник → Однозарядный киберпалец
+black-chrome_cyberware: Popup Net Launcher: Выдвижной сеткомёт → Выкидной сеткомёт
+black-chrome_cyberware: Popup Shotgun: Выдвижной дробовик → Выкидной дробовик
+black-chrome_cyberware: RacerBracer: Гоночный воротник → Водительский ошейник
+black-chrome_cyberware: Reinforced Cyberarm Upgrade: Усиление киберруки → Укрепление киберруки
+black-chrome_cyberware: Reinforced Cyberleg Upgrade: Усиление киберноги → Укрепление киберноги
+black-chrome_cyberware: Sponsored Cybereye: Спонсорский киберглаз → Спонсируемый киберглаз
+black-chrome_cyberware: Spray Paint Cyberfinger: Киберпалец-баллончик с краской → Красящий киберпалец
+black-chrome_cyberware: Squirt Cyberfinger: Киберпалец-брызгалка → Киберпалец-распылитель
+black-chrome_cyberware: Wirecutter/Scissors Cyberfingers: Киберпалец-ножницы/кусачки → Киберпальцы-кусачки/ножницы
+black-chrome_gear: MechaMan Smart Glove: Умная перчатка «Мехамэн» → Умная перчатка «МехаМэн»
+black-chrome_gear: ChipVault by SecSystems: Щепкохранилище от СекСистемс → СекСистемс «ЩепкоХранилище»
+black-chrome_gear: EL-F4-NT Linear Frame: Прямоходный остов EL-F4-NT → Экзоскелет ЭЛ-Ф4-НТ
+black-chrome_gear: Everest VentureWare AirWell 50: «Конденсационный колодец 50» от Эверест венчурвэйр → Воздушный колодец 50
+black-chrome_gear: Everest VentureWare One Touch Habitat: «Жилище в одно касание» от Эверест венчурвэйр → Жилище в одно касание
+black-chrome_gear: Fūma Kotarō Linear Frame: Прямоходный остов «Фума Котаро» → Экзоскелет «Фума Котаро»
+black-chrome_gear: Hydrosubsidium Universal Aqualung: Универсальный акваланг от Хайдросабсидиум → Гидросубсидиум «Универсальный акваланг»
+black-chrome_gear: Jeeves Executive Garment Bag: Мешок для одежды «Камердинер» → Чехол для одежды «Корпорат Дживс»
+black-chrome_gear: KillStrom Banshee Microphone: Микрофон «Банши» от КиллСторм → Микрофон КиллСтром «Банши»
+black-chrome_gear: KillStrom Sonic Boom Amp: Усилитель «Звуковой удар» от КиллСторм → КиллСтром «Усилитель звукового удара»
+black-chrome_gear: KillStrom Typhoid Speaker: Колонка «Тиф» от КиллСторм → Колонка КиллСтром «Тифоид»
+black-chrome_gear: KTech Doberman 500: «Доберман 500» от КейТех → КТех «Доберман 500»
+black-chrome_gear: Laser Light Electric Guitar: Электрическая гитара → Электрогитара «Лазерный свет»
+black-chrome_gear: LF-001 SWAT Linear Frame: Прямоходный остов SWAT ПО-001 → Экзоскелет ЛФ-001 SWAT
+black-chrome_gear: Mr. Biscuit Multi-Food Processor: Мультипищевой комбайн «Мистер Хрустик» → Мультипищевой комбайн «Мистер Бисквит»
+black-chrome_gear: Petrochem Nitro Ultra9: «Нитро Ультра9» от Петрохем → Петрохем «Нитро Ультра9»
+black-chrome_gear: RapiDeploy Sheath: Быстродейственная кобура → СвобоДоступные ножны
+black-chrome_gear: SovOil Industrial Lubricant: Промышленная смазка от Совнефти → Промышленная смазка «СовНефть»
+black-chrome_gear: SovOil Medical Lubricant: Медицинская смазка от Совнефти → Медицинская смазка «СовНефть»
+black-chrome_gear: SovOil Personal Lubricant: Личная смазка от Совнефти → Интимная смазка «СовНефть»
+black-chrome_gear: Streetcase by SecSystems: Уличный чемоданчик от СекСистемс → СекСистемс «Уличный кейс»
+black-chrome_gear: Triti-Fizz: Трити-физз → Трити-Физз
+black-chrome_gear: Vermilion Linear Frame: Прямоходный остов «Киноварь» → Экзоскелет «Вермилион»
+black-chrome_gear: WorldSat Aerial Sphere: Антенная сфера → ВорлдСат «АэроСфера»
+black-chrome_gear: Zetatech Porta-Printer: «Порта-принтер» от Зетатех → Зетатех «Порта-Принтер»
+black-chrome_upgrades: 4Tify: На6вие → 4Тифай
+black-chrome_upgrades: NCPD Crime Database: База досье преступлений → База преступлений NCPD
+black-chrome_upgrades: Trauma Team MedScan: «МедСкан» от Траума тим → Trauma Team «МедСкан»
+black-chrome_upgrades: Ziggurat City Database: База данных города от Зиккурат → Городская база данных «Зиккурат»
+black-chrome_vehicles: AmeriCar EconoCompact: «ЭконоКомпакт» от АмериКар → АмериКар «ЭконоКомпакт»
+black-chrome_vehicles: AmeriCar Family Star Van: Фургон «Фэмили Стар» от АмериКар → Фургон АмериКар «Фэмили Стар»
+black-chrome_vehicles: Dayton TDT 004: «TDT 004» от Дэйтон → Дейтон ТДТ 004
+black-chrome_vehicles: Diego Motors Chupacabra: «Чупакабра» от Диего моторс → Диего Моторс «Чупакабра»
+black-chrome_vehicles: Diego Motors Range Trike: «Разъездной трицикл» от Диего моторс → Диего Моторс «Длинный трайк»
+black-chrome_vehicles: Grundy: Резонёр → Гранди
+black-chrome_vehicles: Harriet 100: Хэрриет 100 → Гарриет 100
+black-chrome_vehicles: Harvey Merc: Харви-наёмник → Харви Мерк
+black-chrome_vehicles: Highway Master Artemis: Артемида, владычица дорог → Владыка дорог «Артемида»
+black-chrome_vehicles: Kaukaz Volkhov: «Волхов» от Кавказ → Кавказ «Волхов»
+black-chrome_vehicles: Makigai Ebi: «Эби» от Макигай → Макигай «Эби»
+black-chrome_vehicles: Militech Gorgon Security Van: Охранный фургон «Горгона» от Милитех → Охранный фургон Милитех «Горгона»
+black-chrome_vehicles: Quadra Thunder-X:  «Гром-X» от Квадра → Квадра «Гром-X»
+black-chrome_vehicles: SH-45 Patroller Law: SH-45 «Полицейский дозорный» → СХ-45 «Патрульный» (полиция)
+black-chrome_vehicles: SH-45 Patroller: SH-45 «Дозорный» → СХ-45 «Патрульный»
+black-chrome_vehicles: Street King Combat Vehicle: Боевая машина «Король улиц» → Боевая машина «Уличный король»
+black-chrome_vehicles: Tanson Bellhop: «Посыльный» от Тэнсон → Тансон «Посыльный»
+black-chrome_vehicles: Tanson JetBoy Hoverboard: Ховерборд «ДжетБой» от Тэнсон → Ховерборд Тансон «ДжетБой»
+black-chrome_vehicles: TetraCorp America Badger Corporate Bus: Корпоративный автобус «Барсук» от ТетраКорп Америка → Корпоративный автобус ТетраКорп Америка «Барсук»
+black-chrome_vehicles: TetraCorp America MegaHauler: «Мегагрузовоз» от ТетраКорп Америка → ТетраКорп Америка «МегаТягач»
+black-chrome_vehicles: Yang's Wheels Rickshaw: Рикша → Рикша «Колёса Янга»
+black-chrome_vehicles: Zacatzontli Pickup Truck: Пикап «Цакацонтли» → Пикап «Закацонтли»
+black-chrome_vehicles: Zetatech AeroCop: «АэроКоп» от Зетатех → Зетатех «АэроКоп»
+black-chrome_vehicles: Zetatech AeroVox: «АэроВокс» от Зетатех → Зетатех «АэроВокс»
+black-chrome_vehicles: Zetatech Destination: «Назначение» от Зетатех → Зетатех «Дестинейшн»
+black-chrome_vehicles: Zetatech Herakles: «Геракл» от Зетатех → Зетатех «Геракл»
+black-chrome_vehicles: Zonda Molly 1K: «Молли 1К» от Зонда → Зонда «Молли 1К»
+black-chrome_vehicles: Zonda Parallax Cybercycle: Киберцикл «Параллакс» от Зонда → Киберцикл Зонда «Параллакс»
+black-chrome_vehicles: Zonda Sliver: «Серебринка» от Зонда → Зонда «Сильвер»
+black-chrome_weapons: Arasaka Prototype Variable Assault Rifle: Прототип регулируемой штурмовой винтовки → Прототип изменяемой штурмовой винтовки Арасака
+black-chrome_weapons: Arasaka Weeping Reaver Katana: Катана «Плачущий разбойник» от Арасака → Катана Арасака «Плачущий разбойник»
+black-chrome_weapons: E-TACK Public Defender: E-TACK «Омбудсмен» → E-TACK «Народный защитник»
+black-chrome_weapons: Eagletech Survivalist: «Выживальщик» от Иглтех → Иглтех «Выживальщик»
+black-chrome_weapons: Faisal's Magna Knuckles: «Магнакастет» от Фейсала → Магна-кастет Фейсала
+black-chrome_weapons: Federated Arms Pepper Shaker: «Перечница» от Федерейтед армс → Федерейтед Армс «Перечница»
+black-chrome_weapons: Georgia Arms Matchmaker: «Сватья» от Джорджия армс → Джорджия Армс «Сваха»
+black-chrome_weapons: GunMart Bubba Buster: «Размозжеватель хмырей» от Ганмарт → ГанМарт «Трах-бабах»
+black-chrome_weapons: GunMart Door Cracker: «Дверной взломщик» от Ганмарт → ГанМарт «Дверной взломщик»
+black-chrome_weapons: GunMart Engage Rocket Launcher: Ракетница «Запуск» от Ганмарт → Ракетница ГанМарт «Захват»
+black-chrome_weapons: GunMart Smart Special: Визитная карточка (умная) → ГанМарт «Умный спешл»
+black-chrome_weapons: GunMart Special: Визитная карточка → ГанМарт «Спешл»
+black-chrome_weapons: Kendachi Mono-Guard: «Моно-заслон» от Кэндати → Кендаши «Моно-защита»
+black-chrome_weapons: Kendachi Mono-Katana: «Моно-катана» от Кэндати → Кендаши «Моно-катана»
+black-chrome_weapons: Kendachi Mono-Star: «Моно-звезда» от Кэндати → Кендаши «Моно-звезда»
+black-chrome_weapons: Kendachi Mono-Wakizashi: «Моно-вакидзаси» от Кэндати → Кендаши «Моно-вакидзаси»
+black-chrome_weapons: KillChip 100 Micro-Bomb: Микробомба «Щепка-убийца 100» → Микробомба «УбивающаяЩепка 100»
+black-chrome_weapons: KTech TechHammer: «Техмолот» от КейТех → КТех «ТехноМолот»
+black-chrome_weapons: Midnight Arms Beast Shotgun: Дробовик «Зверь» от Миднайт армс → Дробовик Миднайт Армс «Зверь»
+black-chrome_weapons: Militech Fox Dual Ammo Pistol: Двухзарядный пистолет «Лис» от Милитех → Двузарядный пистолет Милитех «Лиса»
+black-chrome_weapons: Militech Mastiff SMG: ПП «Мастиф» от Милитех → ПП Милитех «Мастиф»
+black-chrome_weapons: Militech Perseus: «Персей» от Милитех → Милитех «Персей»
+black-chrome_weapons: ModFire 10X (Pistol): Модфаер 10X (пистолет) → МодФайр 10X (пистолет)
+black-chrome_weapons: ModFire 10X (Rifle): Модфаер 10X (винтовка) → МодФайр 10X (винтовка)
+black-chrome_weapons: ModFire 10X (SMG): Модфаер 10X (ПП) → МодФайр 10X (ПП)
+black-chrome_weapons: OUTLet Explosive: Взрывчатка-штепсель → Взрывной АДаптер
+black-chrome_weapons: Overlord Handcannon: Бомбарда «Владыка» → Ручная пушка «Оверлорд»
+black-chrome_weapons: Pursuit Security Incorporated Crowd Buster: «Разгонщик толпы» от Пюрсьют секьюрити инкорпорейтед → Разгонятель толп
+black-chrome_weapons: Rostović Kleaver: Тесак → Ростович «Кливер»
+black-chrome_weapons: Rostović Ulični Uništitelj (aka the Street Destroyer): «Уличный уничтожитель» от Ростович → Ростович «Улични Уништитель» (Разрушитель улиц)
+black-chrome_weapons: Sanroo Hello Cutie Ultra-K8 Assault Pistol: Хелло Кьюти Штурмовой пистолет «Ультра-КИС4» от Санру → Штурмовой пистолет Санру Hello Cutie «Ультра-K8»
+black-chrome_weapons: SlamDance FangFist: «Клыкастый кулак» от СлэмДэнс → СлэмДэнс «Клыкастый кулак»
+black-chrome_weapons: SlamDance Tasmanskiy Klô: «Тасманский кôгôть» от СлэмДэнс → СлэмДэнс «Тасманский кôгôть»
+black-chrome_weapons: Sternmeyer M-04 Variable Assault: Варьируемая винтовка М-04 от Штернмейер → Штернмейер M-04 «Изменяемая штурмовка»
+black-chrome_weapons: Superchrome® Glam Rifle: Щегольская винтовка с покрытием «Суперхром®» → Гламурная винтовка Суперхром®
+black-chrome_weapons: Superchrome® Javelin: Джевелин с покрытием «Суперхром®» → Джевелин Суперхром®
+black-chrome_weapons: Superchrome® Sidearm: Личное оружие с покрытием «Суперхром®» → Запасное оружие Суперхром®
+black-chrome_weapons: Techtronika Russia BMG-500: «БПМ-500» от Техтроника Россия → Техтроника Россия BMG-500
+black-chrome_weapons: Tommyknocker: Томминокер → Стукач Томми
+black-chrome_weapons: TR-4 Detonator Fluid: Жидкая взрывчатка TR-4 → Детонационная жидкость ТР-4
+black-chrome_weapons: Utility Tomahawk: Многофункциональный томагавк → Утилитарный томагавк
+black-chrome_weapons: Zhirafa Rhinocefist: «Кулак-носорог» от Жирафа → Жирафа «Кулак носорога»
+core_ammo: Heavy Pistol (Armor-Piercing): Для тяжёлого пистолета (бронебойный) → Патроны для тяжёлого пистолета (бронебойные)
+core_ammo: Heavy Pistol (Basic): Для тяжёлого пистолета (стандартный) → Патроны для тяжёлого пистолета (стандартные)
+core_ammo: Heavy Pistol (Expansive): Для тяжёлого пистолета (экспансивный) → Патроны для тяжёлого пистолета (экспансивные)
+core_ammo: Heavy Pistol (Incendiary): Для тяжёлого пистолета (зажигательный) → Патроны для тяжёлого пистолета (зажигательные)
+core_ammo: Heavy Pistol (Rubber): Для тяжёлого пистолета (резиновый) → Патроны для тяжёлого пистолета (резиновые)
+core_ammo: Heavy Pistol (Smart): Для тяжёлого пистолета (умный) → Патроны для тяжёлого пистолета (умные)
+core_ammo: Medium Pistol (Armor-Piercing): Для среднего пистолета (бронебойный) → Патроны для среднего пистолета (бронебойные)
+core_ammo: Medium Pistol (Basic): Для среднего пистолета (стандартный) → Патроны для среднего пистолета (стандартные)
+core_ammo: Medium Pistol (Expansive): Для среднего пистолета (экспансивный) → Патроны для среднего пистолета (экспансивные)
+core_ammo: Medium Pistol (Incendiary): Для среднего пистолета (зажигательный) → Патроны для среднего пистолета (зажигательные)
+core_ammo: Medium Pistol (Rubber): Для среднего пистолета (резиновый) → Патроны для среднего пистолета (резиновые)
+core_ammo: Medium Pistol (Smart): Для среднего пистолета (умный) → Патроны для среднего пистолета (умные)
+core_ammo: Rifle (Armor-Piercing): Винтовочный (бронебойный) → Винтовочные патроны (бронебойные)
+core_ammo: Rifle (Basic): Винтовочный (стандартный) → Винтовочные патроны (стандартные)
+core_ammo: Rifle (Expansive): Винтовочный (экспансивный) → Винтовочные патроны (экспансивные)
+core_ammo: Rifle (Incendiary): Винтовочный (зажигательный) → Винтовочные патроны (зажигательные)
+core_ammo: Rifle (Rubber): Винтовочный (резиновый) → Винтовочные патроны (резиновые)
+core_ammo: Rifle (Smart): Винтовочный (умный) → Винтовочные патроны (умные)
+core_ammo: Very Heavy Pistol (Armor-Piercing): Для очень тяжёлого пистолета (бронебойный) → Патроны для очень тяжёлого пистолета (бронебойные)
+core_ammo: Very Heavy Pistol (Basic): Для очень тяжёлого пистолета (стандартный) → Патроны для очень тяжёлого пистолета (стандартные)
+core_ammo: Very Heavy Pistol (Expansive): Для очень тяжёлого пистолета (экспансивный) → Патроны для очень тяжёлого пистолета (экспансивные)
+core_ammo: Very Heavy Pistol (Incendiary): Для очень тяжёлого пистолета (зажигательный) → Патроны для очень тяжёлого пистолета (зажигательные)
+core_ammo: Very Heavy Pistol (Rubber): Для очень тяжёлого пистолета (резиновый) → Патроны для очень тяжёлого пистолета (резиновые)
+core_ammo: Very Heavy Pistol (Smart): Для очень тяжёлого пистолета (умный) → Патроны для очень тяжёлого пистолета (умные)
+core_armor: Bullet Proof Shield: Пулестойкий щит → Пуленепробиваемый щит
+core_armor: Flak (Body): Костюм сапёра → Взрывозащищённая броня (тело)
+core_armor: Flak (Head): Шлем сапёра → Взрывозащищённая броня (голова)
+core_armor: Heavy Armorjack (Body): Тяжёлый бронекостюм → Тяжёлый бронекостюм (тело)
+core_armor: Heavy Armorjack (Head): Тяжёлый бронешлем → Тяжёлый бронекостюм (голова)
+core_armor: Kevlar® (Body): Кевларовый жилет → Кевлар® (тело)
+core_armor: Kevlar® (Head): Кевларовый шлем → Кевлар® (голова)
+core_armor: Leathers (Body): Кожанка → Кожа (тело)
+core_armor: Leathers (Head): Кожанный шлем → Кожа (голова)
+core_armor: Light Armorjack (Body): Лёгкий бронекостюм → Лёгкий бронекостюм (тело)
+core_armor: Light Armorjack (Head): Лёгкий бронешлем → Лёгкий бронекостюм (голова)
+core_armor: Medium Armorjack (Body): Средний бронекостюм → Средний бронекостюм (тело)
+core_armor: Medium Armorjack (Head): Средний бронешлем → Средний бронекостюм (голова)
+core_armor: Metalgear® (Body): Металлическая броня → Металгир® (тело)
+core_armor: Metalgear® (Head): Металлический шлем → Металгир® (голова)
+core_armor: Skin Weave: Вплетение в кожу → Плетёная кожа
+core_clothing: Asia Pop Bottoms: Низ (Азия поп) → Штаны (Asia Pop)
+core_clothing: Asia Pop Contact Lenses: Контактные линзы (Азия поп) → Контактные линзы (Asia Pop)
+core_clothing: Asia Pop Footwear: Обувь (Азия поп) → Обувь (Asia Pop)
+core_clothing: Asia Pop Glasses: Очки (Азия поп) → Очки (Asia Pop)
+core_clothing: Asia Pop Hat: Головной убор (Азия поп) → Головной убор (Asia Pop)
+core_clothing: Asia Pop Jacket: Верхняя одежда (Азия поп) → Куртка (Asia Pop)
+core_clothing: Asia Pop Jewelry: Украшение (Азия поп) → Украшения (Asia Pop)
+core_clothing: Asia Pop Mirrorshades: Зеркальные очки (Азия поп) → Зеркальные очки (Asia Pop)
+core_clothing: Asia Pop Top: Верх (Азия поп) → Верх (Asia Pop)
+core_clothing: Bag Lady Chic Bottoms: Низ (бомжатский прикид) → Штаны (Bag Lady Chic)
+core_clothing: Bag Lady Chic Contact Lenses: Контактные линзы (бомжатский прикид) → Контактные линзы (Bag Lady Chic)
+core_clothing: Bag Lady Chic Footwear: Обувь (бомжатский прикид) → Обувь (Bag Lady Chic)
+core_clothing: Bag Lady Chic Glasses: Очки (бомжатский прикид) → Очки (Bag Lady Chic)
+core_clothing: Bag Lady Chic Hat: Головной убор (бомжатский прикид) → Головной убор (Bag Lady Chic)
+core_clothing: Bag Lady Chic Jacket: Верхняя одежда (бомжатский прикид) → Куртка (Bag Lady Chic)
+core_clothing: Bag Lady Chic Jewelry: Украшение (бомжатский прикид) → Украшения (Bag Lady Chic)
+core_clothing: Bag Lady Chic Mirrorshades: Зеркальные очки (бомжатский прикид) → Зеркальные очки (Bag Lady Chic)
+core_clothing: Bag Lady Chic Top: Верх (бомжатский прикид) → Верх (Bag Lady Chic)
+core_clothing: Bohemian Bottoms: Низ (бохо) → Штаны (Bohemian)
+core_clothing: Bohemian Contact Lenses: Контактные линзы (бохо) → Контактные линзы (Bohemian)
+core_clothing: Bohemian Footwear: Обувь (бохо) → Обувь (Bohemian)
+core_clothing: Bohemian Glasses: Очки (бохо) → Очки (Bohemian)
+core_clothing: Bohemian Hat: Головной убор (бохо) → Головной убор (Bohemian)
+core_clothing: Bohemian Jacket: Верхняя одежда (бохо) → Куртка (Bohemian)
+core_clothing: Bohemian Jewelry: Украшение (бохо) → Украшения (Bohemian)
+core_clothing: Bohemian Mirrorshades: Зеркальные очки (бохо) → Зеркальные очки (Bohemian)
+core_clothing: Bohemian Top: Верх (бохо) → Верх (Bohemian)
+core_clothing: Businesswear Bottoms: Низ (деловой стиль) → Штаны (Businesswear)
+core_clothing: Businesswear Contact Lenses: Контактные линзы (деловой стиль) → Контактные линзы (Businesswear)
+core_clothing: Businesswear Footwear: Обувь (деловой стиль) → Обувь (Businesswear)
+core_clothing: Businesswear Glasses: Очки (деловой стиль) → Очки (Businesswear)
+core_clothing: Businesswear Hat: Головной убор (деловой стиль) → Головной убор (Businesswear)
+core_clothing: Businesswear Jacket: Верхняя одежда (деловой стиль) → Куртка (Businesswear)
+core_clothing: Businesswear Jewelry: Украшение (деловой стиль) → Украшения (Businesswear)
+core_clothing: Businesswear Mirrorshades: Зеркальные очки (деловой стиль) → Зеркальные очки (Businesswear)
+core_clothing: Businesswear Top: Верх (деловой стиль) → Верх (Businesswear)
+core_clothing: Gang Colors Bottoms: Низ (одежда банды) → Штаны (Gang Colors)
+core_clothing: Gang Colors Contact Lenses: Контактные линзы (одежда банды) → Контактные линзы (Gang Colors)
+core_clothing: Gang Colors Footwear: Обувь (одежда банды) → Обувь (Gang Colors)
+core_clothing: Gang Colors Glasses: Очки (одежда банды) → Очки (Gang Colors)
+core_clothing: Gang Colors Hat: Головной убор (одежда банды) → Головной убор (Gang Colors)
+core_clothing: Gang Colors Jacket: Верхняя одежда (одежда банды) → Куртка (Gang Colors)
+core_clothing: Gang Colors Jewelry: Украшение (одежда банды) → Украшения (Gang Colors)
+core_clothing: Gang Colors Mirrorshades: Зеркальные очки (одежда банды) → Зеркальные очки (Gang Colors)
+core_clothing: Gang Colors Top: Верх (одежда банды) → Верх (Gang Colors)
+core_clothing: Generic Chic Bottoms: Низ (обычный прикид) → Штаны (Generic Chic)
+core_clothing: Generic Chic Contact Lenses: Контактные линзы (обычный прикид) → Контактные линзы (Generic Chic)
+core_clothing: Generic Chic Footwear: Обувь (обычный прикид) → Обувь (Generic Chic)
+core_clothing: Generic Chic Glasses: Очки (обычный прикид) → Очки (Generic Chic)
+core_clothing: Generic Chic Hat: Головной убор (обычный прикид) → Головной убор (Generic Chic)
+core_clothing: Generic Chic Jacket: Верхняя одежда (обычный прикид) → Куртка (Generic Chic)
+core_clothing: Generic Chic Jewelry: Украшение (обычный прикид) → Украшения (Generic Chic)
+core_clothing: Generic Chic Mirrorshades: Зеркальные очки (обычный прикид) → Зеркальные очки (Generic Chic)
+core_clothing: Generic Chic Top: Верх (Обычный прикид) → Верх (Generic Chic)
+core_clothing: High Fashion Bottoms: Низ (высокая мода) → Штаны (High Fashion)
+core_clothing: High Fashion Contact Lenses: Контактные линзы (высокая мода) → Контактные линзы (High Fashion)
+core_clothing: High Fashion Footwear: Обувь (высокая мода) → Обувь (High Fashion)
+core_clothing: High Fashion Glasses: Очки (высокая мода) → Очки (High Fashion)
+core_clothing: High Fashion Hat: Головной убор (высокая мода) → Головной убор (High Fashion)
+core_clothing: High Fashion Jacket: Верхняя одежда (высокая мода) → Куртка (High Fashion)
+core_clothing: High Fashion Jewelry: Украшение (высокая мода) → Украшения (High Fashion)
+core_clothing: High Fashion Mirrorshades: Зеркальные очки (высокая мода) → Зеркальные очки (High Fashion)
+core_clothing: High Fashion Top: Верх (высокая мода) → Верх (High Fashion)
+core_clothing: Leisurewear Bottoms: Низ (спортивки) → Штаны (Leisurewear)
+core_clothing: Leisurewear Contact Lenses: Контактные линзы (спортивки) → Контактные линзы (Leisurewear)
+core_clothing: Leisurewear Footwear: Обувь (спортивки) → Обувь (Leisurewear)
+core_clothing: Leisurewear Glasses: Очки (спортивки) → Очки (Leisurewear)
+core_clothing: Leisurewear Hat: Головной убор (спортивки) → Головной убор (Leisurewear)
+core_clothing: Leisurewear Jacket: Верхняя одежда (спортивки) → Куртка (Leisurewear)
+core_clothing: Leisurewear Jewelry: Украшение (спортивки) → Украшения (Leisurewear)
+core_clothing: Leisurewear Mirrorshades: Зеркальные очки (спортивки) → Зеркальные очки (Leisurewear)
+core_clothing: Leisurewear Top: Верх (спортивки) → Верх (Leisurewear)
+core_clothing: Nomad Leathers Bottoms: Низ (одеяния кочевников) → Штаны (Nomad Leathers)
+core_clothing: Nomad Leathers Contact Lenses: Контактные линзы (одеяния кочевников) → Контактные линзы (Nomad Leathers)
+core_clothing: Nomad Leathers Footwear: Обувь (одеяния кочевников) → Обувь (Nomad Leathers)
+core_clothing: Nomad Leathers Glasses: Очки (одеяния кочевников) → Очки (Nomad Leathers)
+core_clothing: Nomad Leathers Hat: Головной убор (одеяния кочевников) → Головной убор (Nomad Leathers)
+core_clothing: Nomad Leathers Jacket: Верхняя одежда (одеяния кочевников) → Куртка (Nomad Leathers)
+core_clothing: Nomad Leathers Jewelry: Украшение (одеяния кочевников) → Украшения (Nomad Leathers)
+core_clothing: Nomad Leathers Mirrorshades: Зеркальные очки (одеяния кочевников) → Зеркальные очки (Nomad Leathers)
+core_clothing: Nomad Leathers Top: Верх (одеяния кочевников) → Верх (Nomad Leathers)
+core_clothing: Urban Flash Bottoms: Низ (городской эпатаж) → Штаны (Urban Flash)
+core_clothing: Urban Flash Contact Lenses: Контактные линзы (городской эпатаж) → Контактные линзы (Urban Flash)
+core_clothing: Urban Flash Footwear: Обувь (городской эпатаж) → Обувь (Urban Flash)
+core_clothing: Urban Flash Glasses: Очки (городской эпатаж) → Очки (Urban Flash)
+core_clothing: Urban Flash Hat: Головной убор (городской эпатаж) → Головной убор (Urban Flash)
+core_clothing: Urban Flash Jacket: Верхняя одежда (городской эпатаж) → Куртка (Urban Flash)
+core_clothing: Urban Flash Jewelry: Украшение (городской эпатаж) → Украшения (Urban Flash)
+core_clothing: Urban Flash Mirrorshades: Зеркальные очки (городской эпатаж) → Зеркальные очки (Urban Flash)
+core_clothing: Urban Flash Top: Верх (городской эпатаж) → Верх (Urban Flash)
+core_critical-injuries-body: Crushed Fingers: Перелом пальцев → Раздробленные пальцы
+core_critical-injuries-body: Spinal Injury: Повреждение позвоночника → Травма позвоночника
+core_critical-injuries-head: Brain Injury: Повреждение мозга → Черепно-мозговая травма
+core_critical-injuries-head: Concussion: Контузия → Сотрясение мозга
+core_critical-injuries-head: Cracked Skull: Перелом черепа → Трещина черепа
+core_critical-injuries-head: Crushed Windpipe: Травма трахеи → Раздавленная трахея
+core_critical-injuries-head: Whiplash: Травма шеи → Хлыстовая травма шеи
+core_cyberware: Anti-Dazzle: Антиблик → Антиослепление
+core_cyberware: Artificial Shoulder Mount: Искусственные плечи → Искусственное плечевое крепление
+core_cyberware: Braindance Recorder: Имплант записи брейндансов → Рекордер брейнданса
+core_cyberware: Bug Detector: Обнаружитель жучков → Детектор жучков
+core_cyberware: Color Shift: Смена цвета → Сдвиг цвета
+core_cyberware: Contraceptive Implant: Имплантат контрацепции → Контрацептив
+core_cyberware: Difficult Skill Chip: Щепка со сложным навыком → Щепка сложного навыка
+core_cyberware: EMP Threading: Шелкография от ЭМИ → ЭМИ-нить
+core_cyberware: Enhanced Antibodies: Улучшенные антитела → Усиленные антитела
+core_cyberware: Grafted Muscle and Bone Lace: Наращенные мышцы и укреплённые кости → Искусственные мышцы и усиленные кости
+core_cyberware: Grapple Hand: Рука-кошка → Грейферная рука
+core_cyberware: Grip Foot: Цепкие ступни → Цепкая стопа
+core_cyberware: Hardened Shielding (Cyber Arm): Усиленное экранирование (киберрука) → Закалённое экранирование (киберрука)
+core_cyberware: Hardened Shielding (Cyber Leg): Усиленное экранирование (кибернога) → Закалённое экранирование (кибернога)
+core_cyberware: Homing Tracer: Радиопеленгатор → Трекер маячка
+core_cyberware: Implanted Linear Frame β (Beta): Имплантированный прямоходный остов β (бета) → Эндоскелет β (Бета)
+core_cyberware: Implanted Linear Frame ∑ (Sigma): Имплантированный прямоходный остов ∑ (сигма) → Эндоскелет ∑ (Сигма)
+core_cyberware: Independent Air Supply: Независимый контур дыхания → Независимый запас воздуха
+core_cyberware: Interface Plugs: Разъём интерфейса → Интерфейсный разъём
+core_cyberware: Jump Booster: Прыжковый усилитель → Прыжковый ускоритель
+core_cyberware: Level Damper: Шумопоглотитель → Демпфер
+core_cyberware: Light Tattoo: Светотату → Светящиеся тату
+core_cyberware: Midnight Lady Sexual Implant: Сексуальный имплант «Полуночная дама» → Сексуальный имплант Полуночница™
+core_cyberware: Mr. Studd Sexual Implant: Сексуальный имплант «Мистер жеребец» → Сексуальный имплант Мр. Перчик™
+core_cyberware: MultiOptic Mount: Крепление МультиОптик → Мультиоптическое фасеточное крепление
+core_cyberware: Nasal Filters: Носовые фильтры → Назальные фильтры
+core_cyberware: Neural Link: Нейронная связь → Нейролинк
+core_cyberware: Popup Grenade Launcher: Выдвижной гранатомёт → Выкидной гранатомёт
+core_cyberware: Popup Melee Weapon: Выдвижное оружие ближнего боя → Выкидное ОББ
+core_cyberware: Popup Ranged Weapon: Выдвижное оружие дальнего боя → Выкидное ОДБ
+core_cyberware: Popup Shield: Выдвижной щит → Выкидной щит
+core_cyberware: Quick Change Mount: Быстросменный шарнир → Быстросъёмное крепление
+core_cyberware: Radar Detector: Антирадар → Радар-детектор
+core_cyberware: Radar/Sonar Implant: Радар/Сонар → Радар/сонар-имплант
+core_cyberware: Radiation Detector: Детектор излучения → Детектор радиации
+core_cyberware: Radio Scanner/Music Player: Радиоприёмник/Музыкальный плеер → Радиосканер/музыкальный плеер
+core_cyberware: Realskinn Covering (Cyber Arm): Покрытие Realskinn (киберрука) → Покрытие Реалскин™ (киберрука)
+core_cyberware: Realskinn Covering (Cyber Leg): Покрытие Realskinn (кибернога) → Покрытие Реалскин™ (кибернога)
+core_cyberware: Scrambler/Descrambler: Скремблер/Дескремблер → Шифратор/дешифратор
+core_cyberware: Sensor Array: Сенсорная установка → Сенсорный массив
+core_cyberware: Shift Tacts: Цветные линзы → Изменчивые линзы
+core_cyberware: Shoulder Cam: Камера на плече → Наплечная камера
+core_cyberware: Skate Foot: Ступни-ролики → Роликовая стопа
+core_cyberware: Skill Chip: Щепка с навыком → Щепка навыка
+core_cyberware: Skin Weave: Вплетение в кожу → Плетёная кожа
+core_cyberware: Skinwatch: Часы на коже → Подкожные часы
+core_cyberware: Slice 'N Dice: Мясорубка → Резать и рубить
+core_cyberware: Standard Foot: Стандартная ступня → Стандартная стопа
+core_cyberware: Subdermal Grip: Подкожный хват → Подкожный захват
+core_cyberware: Superchrome® Covering (Cyber Arm): Покрытие «Суперхром®» (киберрука) → Покрытие Суперхром® (киберрука)
+core_cyberware: Superchrome® Covering (Cyber Leg): Покрытие «Суперхром®» (кибернога) → Покрытие Суперхром® (кибернога)
+core_cyberware: Tactile Boost: Тактильный усилитель → Тактильное усиление
+core_cyberware: Talon Foot: Коготь в ступне → Когтистая стопа
+core_cyberware: Targeting Scope: Прицел → Тактический прицел
+core_cyberware: Techhair: Техволосы → Техноволосы
+core_cyberware: Tool Hand: Кисть-инструмент → Рука-мультитул
+core_cyberware: Toxin Binders: Блокираторы токсинов → Связыватели токсинов
+core_cyberware: Virtuality: Виртуальность → Виртуальное зрение
+core_cyberware: Voice Stress Analyzer: Анализатор стрессовых изменений голоса → Анализатор голосового стресса
+core_cyberware: Web Foot: Перепончатые ступни → Перепончатая стопа
+core_cyberware: Wolvers: Росомахи → Когти росомахи
+core_drugs: Antibiotic: Антибиотик → Антибиотики
+core_drugs: Surge: Сёрдж → Всплеск
+core_drugs: Synthcoke: Синткокс → Синтококс
+core_gear: Cyberdeck (Excellent): Кибердека (отличное) → Кибердека (отличного качества)
+core_gear: Cyberdeck (Poor): Кибердека (плохое) → Кибердека (низкого качества)
+core_gear: Airhypo: Пневмошприц → Аэрогипо
+core_gear: Anti-Smog Breathing Mask: Антисмоговый респиратор → Маска-противогаз
+core_gear: Auto Level Dampening Ear Protectors: Противошумные наушники → Активные наушники
+core_gear: Braindance Viewer: Проигрыватель брейндансов → Брейнданс-проигрыватель
+core_gear: Bug Detector: Обнаружитель жучков → Детектор жучков
+core_gear: Carryall: Дорожная сумка → Сумка
+core_gear: Cryopump: Криопомпа → Крионасос
+core_gear: Cryotank: Криокапсула → Криокамера
+core_gear: Disposable Cell Phone: Одноразовая мобила → Одноразовый мобильник
+core_gear: Duct Tape: Клейкая лента → Изолента
+core_gear: Electric Guitar/Other Instrument: Электрогитара/иной инструмент → Электрогитара или другой инструмент
+core_gear: Food Stick: Питательный батончик → Пищевой батончик
+core_gear: Glow Stick: Светящаяся палочка → Химический источник света
+core_gear: Grapple Gun: Крюк-кошка → Грейферный пистолет
+core_gear: Homing Tracer: Радиопеленгатор → Трекер маячка
+core_gear: Kibble Pack: Пачка комбикорма → Пакет киббла
+core_gear: Linear Frame β (Beta): Прямоходный остов β (бета) → Внешний экзоскелет β (Бета)
+core_gear: Linear Frame ∑ (Sigma): Прямоходный остов ∑ (сигма) → Внешний экзоскелет ∑ (Сигма)
+core_gear: Lock Picking Set: Набор медвежатника → Набор отмычек
+core_gear: MRE: ИРП → Сухпаёк
+core_gear: Radar Detector: Антирадар → Радар-детектор
+core_gear: Radiation Suit: Радиационный костюм → Костюм химзащиты
+core_gear: Radio Communicator: Радиокоммуникатор → Рация
+core_gear: Radio Scanner/Music Player: Радиоприёмник/Музыкальный плеер → Радиосканер/музыкальный плеер
+core_gear: Road Flare: Сигнальная шашка → Фальшфейер
+core_gear: Rope (60m/yd): Верёвка (60 м/ярд) → Верёвка (60 м)
+core_gear: Scrambler/Descrambler: Скремблер/Дескремблер → Шифратор/дешифратор
+core_gear: Techtool: Техтул → Мультитул
+core_gear: Tent and Camping Equipment: Палатка и набор для кемпинга → Походное снаряжение
+core_gear: Tracer Button: Радиомаячок → Маячок
+core_gear: Vial of Biotoxin: Ампула с биотоксином → Флакон с биотоксином
+core_gear: Vial of Poison: Ампула с ядом → Флакон с ядом
+core_programs: Flak: Фейерверк → Зенитка
+core_programs: Hellbolt: Адский снаряд → Адская стрела
+core_programs: Poison Flatline: Ядовитое обнуление → Обнуляющий яд
+core_programs: See Ya: Я тебя вижу → Увидимся
+core_programs: Speedy Gonzalvez: Быстрый Гонзалвес → Быстрый Гонзалес
+core_programs: Vrizzbolt: Разряд → Нейроразряд
+core_upgrades: DNA Lock: Блокировка на ДНК → ДНК-замок
+core_upgrades: Drum Magazine (Heavy SMG): Барабанный магазин (Тяжёлый ПП) → Барабанный магазин (тяжёлый ПП)
+core_upgrades: Extended Magazine (Heavy SMG): Увеличенный магазин (Тяжёлый ПП) → Увеличенный магазин (тяжёлый ПП)
+core_upgrades: Hardened Circuitry: Экранирование схем → Закалённые схемы
+core_upgrades: Infrared Nightvision Scope: ИК прицел ночного видения → ИК-прицел ночного видения
+core_upgrades: KRASH Barrier: Барьер KRASH → КРАШ-барьер
+core_upgrades: Range Upgrade: Улучшение дальности → Увеличение дистанции
+core_upgrades: Smartgun Link: Смартлинк → Интерфейс умного оружия
+core_vehicles: AV-9 Super Aerodyne: Супер аэродайн AV-9 → Супер-аэродайн AV-9
+core_vehicles: Cabin Cruiser: Прогулочный катер → Круизный катер
+core_vehicles: Gyrocopter: Автожир → Гирокоптер
+core_vehicles: High Performance Groundcar: Спортивный автомобиль → Спорткар
+core_vehicles: Speedboat: Быстроходный катер → Скоростной катер
+core_weapons-branded: Arasaka Minami 10: «Минами 10» от Арасака → Арасака «Минами 10»
+core_weapons-branded: Arasaka Rapid Assault: «Стремительный штурм» от Арасака → Арасака «Стремительный штурм»
+core_weapons-branded: Arasaka WSSA Sniper System: Снайперская система WSSA от Арасака → Снайперская система Арасака WSSA
+core_weapons-branded: Chadran Arms City Reaper: «Городской жнец» от Чадран армс → Чадран Армс «Городской жнец»
+core_weapons-branded: Chadran Arms Jungle Reaper: «Жнец джунглей» от Чадран армс → Чадран Армс «Жнец джунглей»
+core_weapons-branded: Dai Lung Magnum: «Магнум» от Дай Лун → Дай Лунг «Магнум»
+core_weapons-branded: Dai Lung Streetmaster: «Властелин улиц» от Дай Лун → Дай Лунг «Мастер улиц»
+core_weapons-branded: Eagletech Bearcat: «Бинтуронг» от Иглтех → Иглтех «Медведекот»
+core_weapons-branded: Eagletech Scorpion: «Скорпион» от Иглтех → Иглтех «Скорпион»
+core_weapons-branded: Eagletech Striker: «Страйкер» от Иглтех → Иглтех «Стрелок»
+core_weapons-branded: Eagletech Tomcat: «Мартовский кот» от Иглтех → Иглтех «Томкэт»
+core_weapons-branded: Federated Arms Super Chief: «Супер чиф» от Федерейтед армс → Федерейтед Армс «Супер Шеф»
+core_weapons-branded: Federated Arms Tech-Assault III: «Техноштурм III» от Федерейтед армс → Федерейтед Армс «Техноштурм III»
+core_weapons-branded: Federated Arms X-9mm: «X-9мм» от Федерейтед армс → Федерейтед Армс X-9мм
+core_weapons-branded: GunMart Home Defender: «Хоум дефендер» от Ганмарт → ГанМарт «Домашний защитник»
+core_weapons-branded: GunMart Hunter: «Охотник» от Ганмарт → ГанМарт «Охотник»
+core_weapons-branded: GunMart Sherwood: «Шервуд» от Ганмарт → ГанМарт «Шервуд»
+core_weapons-branded: GunMart Snipe-Star: «Снайп-стар» от Ганмарт → ГанМарт «Снайп-Звезда»
+core_weapons-branded: Militech Avenger: «Мститель» от Милитех → Милитех «Мститель»
+core_weapons-branded: Militech Boomer Buster: «Бумер бастер» от Милитех → Милитех «Бум Бастер»
+core_weapons-branded: Militech Bulldog: «Бульдог» от Милитех → Милитех «Бульдог»
+core_weapons-branded: Militech Dragon: «Дракон» от Милитех → Милитех «Дракон»
+core_weapons-branded: Militech Hotshot: «Пижон» от Милитех → Милитех «Горячее попадание»
+core_weapons-branded: Militech Mini-Gat: «Мини-гэт» от Милитех → Милитех «Мини-Гэт»
+core_weapons-branded: Militech Mini-Grenade: «Мини-гренейд» от Милитех → Милитех «Мини-Гранатница»
+core_weapons-branded: Militech Ronin: «Ронин» от Милитех → Милитех «Ронин»
+core_weapons-branded: Militech Urban: «Урбан» от Милитех → Милитех «Городская ракетница»
+core_weapons-branded: Militech Viper: «Гадюка» от Милитех → Милитех «Гадюка»
+core_weapons-branded: Mustang Arms Mark III: «Марк ІІІ» от Мустанг армс → Мустанг Армс «Марк III»
+core_weapons-branded: Nomad Long Rifle: Длинностволка кочевников → Длинноствол кочевников
+core_weapons-branded: Nova Cityhunter: «Городской охотник» от Нова → Нова «Городской охотник»
+core_weapons-branded: Sternmeyer P-35: «P-35» от Штернмейер → Штернмейер П-35
+core_weapons-branded: Sternmeyer SMG-21: «ПП-21» от Штернмейер → Штернмейер ПП-21
+core_weapons-branded: Towa Manufacturing Type-G: «Тип-G» от Това мануфакчуринг → Това Мануфэкчуринг Тип-Г
+core_weapons-branded: Towa Manufacturing Type-R: «Тип-R» отТова мануфакчуринг → Това Мануфэкчуринг Тип-Р
+core_weapons-branded: Tsunami Arms Type-18: «Тип-18» от Цунами армс → Цунами Армс Тип-18
+core_weapons: Assault Rifle (Excellent): Штурмовая винтовка (отличное) → Штурмовая винтовка (отличного качества)
+core_weapons: Assault Rifle (Poor): Штурмовая винтовка (плохое) → Штурмовая винтовка (низкого качества)
+core_weapons: Baseball Bat (Excellent): Бейсбольная бита (отличное) → Бейсбольная бита (отличного качества)
+core_weapons: Baseball Bat (Poor): Бейсбольная бита (плохое) → Бейсбольная бита (низкого качества)
+core_weapons: Bow (Excellent): Лук (отличное) → Лук (отличного качества)
+core_weapons: Bow (Poor): Лук (плохое) → Лук (низкого качества)
+core_weapons: Chainsaw (Excellent): Бензопила (отличное) → Бензопила (отличного качества)
+core_weapons: Chainsaw (Poor): Бензопила (плохое) → Бензопила (низкого качества)
+core_weapons: Combat Knife (Excellent): Боевой нож (отличное) → Нож (отличного качества)
+core_weapons: Combat Knife (Poor): Боевой нож (плохое) → Нож (низкого качества)
+core_weapons: Combat Knife: Боевой нож → Нож
+core_weapons: Constitutional Arms Hurricane Assault Weapon: Штурмовое орудие «Ураган» от Конститьюшнал армс → Конститьюшн Армс, штурмовое орудие «Ураган»
+core_weapons: Crossbow (Excellent): Арбалет (отличное) → Арбалет (отличного качества)
+core_weapons: Crossbow (Poor): Арбалет (плохое) → Арбалет (низкого качества)
+core_weapons: Crowbar (Excellent): Монтировка (отличное) → Лом (отличного качества)
+core_weapons: Crowbar (Poor): Монтировка (плохое) → Лом (низкого качества)
+core_weapons: Crowbar: Монтировка → Лом
+core_weapons: Grenade Launcher (Excellent): Гранатомёт (отличное) → Гранатомёт (отличного качества)
+core_weapons: Grenade Launcher (Poor): Гранатомёт (плохое) → Гранатомёт (низкого качества)
+core_weapons: Heavy Melee (Excellent): Тяжёлое оружие ближнего боя (отличное) → Тяжёлое оружие ближнего боя (отличного качества)
+core_weapons: Heavy Melee (Poor): Тяжёлое оружие ближнего боя (плохое) → Тяжёлое оружие ближнего боя (низкого качества)
+core_weapons: Heavy Pistol (Excellent): Тяжёлый пистолет (отличное) → Тяжёлый пистолет (отличного качества)
+core_weapons: Heavy Pistol (Poor): Тяжёлый пистолет (плохое) → Тяжёлый пистолет (низкого качества)
+core_weapons: Heavy SMG (Excellent): Тяжёлый ПП (отличное) → Тяжёлый ПП (отличного качества)
+core_weapons: Heavy SMG (Poor): Тяжёлый ПП (плохое) → Тяжёлый ПП (низкого качества)
+core_weapons: Helicopter Blades (Excellent): Лопасти вертолёта (отличное) → Лопасть вертолёта (отличного качества)
+core_weapons: Helicopter Blades (Poor): Лопасти вертолёта (плохое) → Лопасть вертолёта (низкого качества)
+core_weapons: Helicopter Blades: Лопасти вертолёта → Лопасть вертолёта
+core_weapons: Kendachi Mono-Three: «Моно-три» от Кэндати → Кендаши «Моно-Три»
+core_weapons: Lead Pipe (Excellent): Свинцовая труба (отличное) → Труба (отличного качества)
+core_weapons: Lead Pipe (Poor): Свинцовая труба (плохое) → Труба (низкого качества)
+core_weapons: Lead Pipe: Свинцовая труба → Труба
+core_weapons: Light Melee (Excellent): Лёгкое оружие ближнего боя (отличное) → Лёгкое оружие ближнего боя (отличного качества)
+core_weapons: Light Melee (Poor): Лёгкое оружие ближнего боя (плохое) → Лёгкое оружие ближнего боя (низкого качества)
+core_weapons: Machete (Excellent): Мачете (отличное) → Мачете (отличного качества)
+core_weapons: Machete (Poor): Мачете (плохое) → Мачете (низкого качества)
+core_weapons: Malorian Arms 3516: Малориан армс 3516 → Малориан Армс 3516
+core_weapons: Medium Melee (Excellent): Среднее оружие ближнего боя (отличное) → Среднее оружие ближнего боя (отличного качества)
+core_weapons: Medium Melee (Poor): Среднее оружие ближнего боя (плохое) → Среднее оружие ближнего боя (низкого качества)
+core_weapons: Medium Pistol (Excellent): Средний пистолет (отличное) → Средний пистолет (отличного качества)
+core_weapons: Medium Pistol (Poor): Средний пистолет (плохое) → Средний пистолет (низкого качества)
+core_weapons: Militech "Cowboy" U-56 Grenade Launcher: Гранатомёт U-56 «Ковбой» от Милитех → Гранатомёт Милитех «Ковбой» U-56
+core_weapons: Naginata (Excellent): Нагината (отличное) → Нагината (отличного качества)
+core_weapons: Naginata (Poor): Нагината (плохое) → Нагината (низкого качества)
+core_weapons: Rhinemetall EMG-86 Railgun: Рельсотрон ЭМП-86 от Рейнметалл → Рейлган Рейнметалл EMG-86
+core_weapons: Rocket Launcher (Excellent): Ракетница (отличное) → Ракетница (отличного качества)
+core_weapons: Rocket Launcher (Poor): Ракетница (плохое) → Ракетница (низкого качества)
+core_weapons: Shotgun (Excellent): Дробовик (отличное) → Дробовик (отличного качества)
+core_weapons: Shotgun (Poor): Дробовик (плохое) → Дробовик (низкого качества)
+core_weapons: Shrieker: Крикун → Визгун
+core_weapons: Sledgehammer (Excellent): Кувалда (отличное) → Кувалда (отличного качества)
+core_weapons: Sledgehammer (Poor): Кувалда (плохое) → Кувалда (низкого качества)
+core_weapons: SMG (Excellent): ПП (отличное) → ПП (отличного качества)
+core_weapons: SMG (Poor): ПП (плохое) → ПП (низкого качества)
+core_weapons: Sniper Rifle (Excellent): Снайперская винтовка (отличное) → Снайперская винтовка (отличного качества)
+core_weapons: Sniper Rifle (Poor): Снайперская винтовка (плохое) → Снайперская винтовка (низкого качества)
+core_weapons: Spiked Bat (Excellent): Бита с гвоздями (отличное) → Шипастая дубина (отличного качества)
+core_weapons: Spiked Bat (Poor): Бита с гвоздями (плохое) → Шипастая дубина (низкого качества)
+core_weapons: Spiked Bat: Бита с гвоздями → Шипастая дубина
+core_weapons: Stun Baton: Оглушающая дубинка → Дубинка-шокер
+core_weapons: Stun Gun: Шокер → Тазер
+core_weapons: Sword (Excellent): Меч (отличное) → Меч (отличного качества)
+core_weapons: Sword (Poor): Меч (плохое) → Меч (низкого качества)
+core_weapons: Tomahawk (Excellent): Томагавк (отличное) → Томагавк (отличного качества)
+core_weapons: Tomahawk (Poor): Томагавк (плохое) → Томагавк (низкого качества)
+core_weapons: Tsunami Arms Helix: «Спираль» от Цунами армс → Цунами Армс «Спираль»
+core_weapons: Very Heavy Melee (Excellent): Очень тяжёлое оружие ближнего боя (отличное) → Очень тяжёлое оружие ближнего боя (отличного качества)
+core_weapons: Very Heavy Melee (Poor): Очень тяжёлое оружие ближнего боя (плохое) → Очень тяжёлое оружие ближнего боя (низкого качества)
+core_weapons: Very Heavy Pistol (Excellent): Очень тяжёлый пистолет (отличное) → Очень тяжёлый пистолет (отличного качества)
+core_weapons: Very Heavy Pistol (Poor): Очень тяжёлый пистолет (плохое) → Очень тяжёлый пистолет (низкого качества)
+internal_cyberware-core: External (7 Option Slots): Внешние (7 слотов опций) → Внешние импланты (7 слотов опций)
+internal_cyberware-core: Fashionware (7 Option Slots): Стилевые (7 слотов опций) → Стилевые импланты (7 слотов опций)
+internal_cyberware-core: Internal (7 Option Slots): Внутренние (7 слотов опций) → Внутренние импланты (7 слотов опций)
+internal_dv-tables: DV Generic: DV Generic → СЛ Общая
+internal_dv-tables: DV Long-Barrel Pistol: СЛ Длинноствольный пистолет → СЛ Удлинённый пистолет
+internal_net-rolltables: All Other Floors (Advanced): All Other Floors (Advanced) → Остальные этажи (продвинутая)
+internal_net-rolltables: All Other Floors (Basic): All Other Floors (Basic) → Остальные этажи (базовая)
+internal_net-rolltables: All Other Floors (Standard): All Other Floors (Standard) → Остальные этажи (стандартная)
+internal_net-rolltables: All Other Floors (Uncommon): All Other Floors (Uncommon) → Остальные этажи (необычная)

@@ -1,0 +1,389 @@
+{
+  "label": "Досье Danger Gal — персонажи",
+  "entries": {
+    "Arbiter": {
+      "name": "Судья"
+    },
+    "Coldfire": {
+      "name": "Колдфаер"
+    },
+    "Breacher": {
+      "name": "Бричер"
+    },
+    "Knock!Knock": {
+      "name": "Тук!Тук!"
+    },
+    "Roof Diver": {
+      "name": "Срыв"
+    },
+    "Big Top": {
+      "name": "Шапито"
+    },
+    "Blammo": {
+      "name": "Бламмо"
+    },
+    "Jester": {
+      "name": "Шут"
+    },
+    "Dunce": {
+      "name": "Балбес"
+    },
+    "Centwit": {
+      "name": "Полудурок"
+    },
+    "Dead Ringer (Blue)": {
+      "name": "Близняшки (Синенькая)"
+    },
+    "Dead Ringer (Pink)": {
+      "name": "Близняшки (Розовенькая)"
+    },
+    "Finale": {
+      "name": "Финал"
+    },
+    "Burt the Squirt": {
+      "name": "Бёрт-Брызгун"
+    },
+    "Tomfool": {
+      "name": "Болван"
+    },
+    "The Fool": {
+      "name": "Дурак"
+    },
+    "Pantera": {
+      "name": "Пантера"
+    },
+    "Tigress": {
+      "name": "Тигрица"
+    },
+    "Doc Mittens": {
+      "name": "Доктор Лапки"
+    },
+    "Mouse": {
+      "name": "Мышь"
+    },
+    "Lynx": {
+      "name": "Пума"
+    },
+    "André Nez": {
+      "name": "Андре Нез"
+    },
+    "Firewall": {
+      "name": "Файрвол"
+    },
+    "José Quispe": {
+      "name": "Хосе Киспе"
+    },
+    "Pat Rezin": {
+      "name": "Пат Резин"
+    },
+    "Sizzle Jams": {
+      "name": "Сиззл Джемс"
+    },
+    "Tetsuo": {
+      "name": "Тетсуо"
+    },
+    "CrAB Lord": {
+      "name": "Краб Лорд"
+    },
+    "CrAB Drone": {
+      "name": "Краб-дрон"
+    },
+    "Tía Puño": {
+      "name": "Тиа Пуньо"
+    },
+    "Backhand": {
+      "name": "Бэкхэнд"
+    },
+    "Jumpshot": {
+      "name": "Джампшот"
+    },
+    "24/7": {
+      "name": "24/7"
+    },
+    "Derby": {
+      "name": "Дерби"
+    },
+    "Forty": {
+      "name": "Форти"
+    },
+    "Grease": {
+      "name": "Гриз"
+    },
+    "Redeye": {
+      "name": "Редай"
+    },
+    "Saber": {
+      "name": "Сейбер"
+    },
+    "Torch": {
+      "name": "Факел"
+    },
+    "Crasher": {
+      "name": "Крэшер"
+    },
+    "Flasher": {
+      "name": "Флэшер"
+    },
+    "Hammer": {
+      "name": "Хаммер"
+    },
+    "Leverage": {
+      "name": "Леверэйдж"
+    },
+    "Blades": {
+      "name": "Блэйдс"
+    },
+    "Apex": {
+      "name": "Апекс"
+    },
+    "Tetra": {
+      "name": "Тетра"
+    },
+    "Hi-Stick": {
+      "name": "Хай-Стик"
+    },
+    "Izzy": {
+      "name": "Иззи"
+    },
+    "Lookout": {
+      "name": "Лукаут"
+    },
+    "Shredder": {
+      "name": "Шреддер"
+    },
+    "Wheelie": {
+      "name": "Уилли"
+    },
+    "Crusher": {
+      "name": "Крашер"
+    },
+    "Warlock": {
+      "name": "Варлок"
+    },
+    "The Pit": {
+      "name": "Пит"
+    },
+    "Quake": {
+      "name": "Квейк"
+    },
+    "Flenser": {
+      "name": "Флэнсер"
+    },
+    "Joe Pitt": {
+      "name": "Джо Питт"
+    },
+    "Ripper": {
+      "name": "Риппер"
+    },
+    "Drop": {
+      "name": "Дроп"
+    },
+    "Raguel": {
+      "name": "Рагуэл"
+    },
+    "Ghoul": {
+      "name": "Гуль"
+    },
+    "Maelstrom Ripperdoc": {
+      "name": "Риппердок Мальстрёма"
+    },
+    "Maelstrom Scavver": {
+      "name": "Мусорщик Мальстрёма"
+    },
+    "Caliber": {
+      "name": "Калибр"
+    },
+    "Hellhound": {
+      "name": "Хеллхаунд"
+    },
+    "Escobar": {
+      "name": "Эскобар"
+    },
+    "Grinder": {
+      "name": "Гриндер"
+    },
+    "Cavalry": {
+      "name": "Кавалерия"
+    },
+    "Golden Boy": {
+      "name": "Голден Бой"
+    },
+    "Sarge": {
+      "name": "Серж"
+    },
+    "Shepard": {
+      "name": "Шепард"
+    },
+    "Gustav": {
+      "name": "Густав"
+    },
+    "Pitbull": {
+      "name": "Питбуль"
+    },
+    "Cherub": {
+      "name": "Херувим"
+    },
+    "Fiona Hayes": {
+      "name": "Фиона Хейз"
+    },
+    "Angle": {
+      "name": "Энгл"
+    },
+    "Stringer": {
+      "name": "Стрингер"
+    },
+    "Bazooka Joe": {
+      "name": "Базука Джо"
+    },
+    "Corpse Reviver": {
+      "name": "Корпс Ревайвер"
+    },
+    "Dirty Shirley": {
+      "name": "Грязная Ширли"
+    },
+    "Endo": {
+      "name": "Эндо"
+    },
+    "Gaze": {
+      "name": "Гейз"
+    },
+    "Racer": {
+      "name": "Рейсер"
+    },
+    "Glare": {
+      "name": "Глэр"
+    },
+    "Swirl": {
+      "name": "Свирл"
+    },
+    "Cereal": {
+      "name": "Цериал"
+    },
+    "Isolate": {
+      "name": "Изолейт"
+    },
+    "Lucky": {
+      "name": "Счастливчик"
+    },
+    "Nox": {
+      "name": "Нокс"
+    },
+    "Paladin": {
+      "name": "Паладин"
+    },
+    "Too Tall": {
+      "name": "Высокий"
+    },
+    "Team Monster's Zetatech Herakles": {
+      "name": "Зетатех «Геракл» Монстров"
+    },
+    "Cazadora": {
+      "name": "Казадора"
+    },
+    "Penitent": {
+      "name": "Пенитент"
+    },
+    "Stick": {
+      "name": "Стик"
+    },
+    "Twist": {
+      "name": "Твист"
+    },
+    "Rockabye": {
+      "name": "Баю-Бай"
+    },
+    "Paddles": {
+      "name": "Пэддлз"
+    },
+    "Trauma Team Squad NC4-2's SovOil Mi-60": {
+      "name": "СовНефть Ми-60 отряда NC4-2"
+    },
+    "Shinobu the Second": {
+      "name": "Синобу Второй"
+    },
+    "Zen": {
+      "name": "Дзен"
+    },
+    "Burai": {
+      "name": "Бурай"
+    },
+    "Wakako": {
+      "name": "Вакако"
+    },
+    "Hamada": {
+      "name": "Хамада"
+    },
+    "Masa": {
+      "name": "Маса"
+    },
+    "Yasu": {
+      "name": "Ясу"
+    },
+    "Shinmai": {
+      "name": "Шинмай"
+    },
+    "Tyger Claw Bouncer": {
+      "name": "Вышибала Тигриных Когтей"
+    },
+    "Tyger Claw Vendor": {
+      "name": "Торговец Тигриных Когтей"
+    },
+    "Vanisher": {
+      "name": "Ванишер"
+    },
+    "Tearjerker": {
+      "name": "Тирджеркер"
+    },
+    "Forty Mike-Mike": {
+      "name": "Форти Майк-Майк"
+    },
+    "Mister Studd": {
+      "name": "Мистер Перчик"
+    },
+    "Freefall": {
+      "name": "Фрифолл"
+    },
+    "Nemo": {
+      "name": "Немо"
+    },
+    "Speed Demon": {
+      "name": "Демон Скорости"
+    },
+    "Alpha": {
+      "name": "Альфа"
+    },
+    "Blaze": {
+      "name": "Блейз"
+    },
+    "Wrecker": {
+      "name": "Рекер"
+    },
+    "Speed Demon's Diego Motors Chupacabra": {
+      "name": "Диего Моторс «Чупакабра» Демона Скорости"
+    },
+    "Darius": {
+      "name": "Дариус"
+    },
+    "Nymph": {
+      "name": "Нимфа"
+    }
+  },
+  "folders": {
+    "6th Street": "6-я улица",
+    "Danger Gal Puma Squad": "Danger Gal: отряд Puma",
+    "Piranhas": "Пираньи",
+    "Generation Red": "Поколение RED",
+    "Team Monster": "Монстры",
+    "The Digital Divas": "Цифровые дивы",
+    "Zoners": "Зонеры",
+    "Network 54": "Network 54",
+    "Trauma Team Squad NC4-2": "Trauma Team: отряд NC4-2",
+    "NCPD Precinct #1": "Участок №1 NCPD",
+    "Arasaka": "Арасака",
+    "Sightseers": "Туристы",
+    "The Bozos": "Бозо",
+    "Edgerunners": "Бегущие по Грани",
+    "Tyger Claws": "Тигриные Когти",
+    "Maelstrom": "Мальстрём"
+  }
+}

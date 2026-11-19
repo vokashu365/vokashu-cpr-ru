@@ -1,0 +1,50 @@
+{
+  "label": "Навыки (Игра на инструменте)",
+  "mapping": {},
+  "entries": {
+    "Play Instrument (Drums)": {
+      "name": "Игра на инструменте (Ударные)",
+      "description": ""
+    },
+    "Play Instrument (Guitar)": {
+      "name": "Игра на инструменте (Гитара)",
+      "description": ""
+    },
+    "Play Instrument (Piano)": {
+      "name": "Игра на инструменте (Фортепиано)",
+      "description": ""
+    },
+    "Play Instrument (Singing)": {
+      "name": "Игра на инструменте (Пение)",
+      "description": ""
+    },
+    "Play Instrument (Violin)": {
+      "name": "Игра на инструменте (Скрипка)",
+      "description": ""
+    },
+    "Play Instrument (Bike Horn)": {
+      "name": "Игра на инструменте (велосипедный гудок)"
+    },
+    "Play Instrument (Biwa)": {
+      "name": "Игра на инструменте (бива)"
+    },
+    "Play Instrument (DJ Deck)": {
+      "name": "Игра на инструменте (диджейский пульт)"
+    },
+    "Play Instrument (Keytar)": {
+      "name": "Игра на инструменте (кейтар)"
+    },
+    "Play Instrument (Sanshin)": {
+      "name": "Игра на инструменте (сансин)"
+    },
+    "Play Instrument (Shamisen)": {
+      "name": "Игра на инструменте (сямисэн)"
+    },
+    "Play Instrument (Sing)": {
+      "name": "Игра на инструменте (пение)"
+    },
+    "Play Instrument (Taiko)": {
+      "name": "Игра на инструменте (тайко)"
+    }
+  }
+}
